@@ -12,7 +12,6 @@ class CardNota extends Component{
             </section>
         );
     }
-
 }
 
 export default CardNota;
